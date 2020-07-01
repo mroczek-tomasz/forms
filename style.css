@@ -1,0 +1,15 @@
+
+body {
+  background: gainsboro;
+  align-content: center;
+  justify-content: center;
+  min-height: 100vh;
+  display: flex;
+}
+.form{
+
+}
+.form__input{
+  display: block;
+  width: 100%;
+}
